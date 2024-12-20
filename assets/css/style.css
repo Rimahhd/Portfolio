@@ -228,15 +228,15 @@ nav{
 }
 .image{
     margin: auto 0;
-    width: 380px;
-    height: 380px;
+    width: 480px;
+    height: 480px;
     border-radius: 55% 45% 55% 45%;
     overflow: hidden;
     animation: imgFloat 7s ease-in-out infinite;
 }
 .image img{
-    width: 380px;
-    height: 380px;
+    width: 480px;
+    height: 480px;
     object-fit: cover;
 }
 @keyframes imgFloat {
